@@ -1,0 +1,32 @@
+
+
+{
+ "data": {
+  "image":"images/apssdc_final.png",
+    "name": "LS SOFTWARES AND SERVICES",
+  "courses": ["React", "JS", "HTML", "ES6","python","mongodb"]
+ },
+ "trainers": [{
+  "image":"images/businessman-avatar-image-beard-hairstyle-male-profile-vector-illustration-178545831.jpg",
+   "name": "Name:Lokesh",
+   "id":"Id:16H71A0521",
+   "phonenumber": " Number:9494932021",
+   "salari": "Salary:65000"
+  },
+  {
+    "image":"images/depositphotos_179308454-stock-illustration-unknown-person-silhouette-glasses-profile.jpg",
+   "name": "Name:Lucky",
+   "id":"Id:16H71A0521",
+   "phonenumber": "Number:9234728654",
+   "salari": "Salary:60000"
+  },
+  {
+    "image":"images/pngtree-business-people-avatar-icon-user-profile-free-vector-png-image_4815126.jpg",
+   "name": "Name:Loke",
+   "id":"Id:16H71A0521",
+   "phonenumber": "Number:436292462",
+   "salari": "Salary:50000"
+  }
+ 
+ ]
+}
